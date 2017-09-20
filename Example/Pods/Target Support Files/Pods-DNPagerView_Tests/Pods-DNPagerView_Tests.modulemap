@@ -1,0 +1,6 @@
+framework module Pods_DNPagerView_Tests {
+  umbrella header "Pods-DNPagerView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

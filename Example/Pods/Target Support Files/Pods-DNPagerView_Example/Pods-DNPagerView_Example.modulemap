@@ -1,0 +1,6 @@
+framework module Pods_DNPagerView_Example {
+  umbrella header "Pods-DNPagerView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

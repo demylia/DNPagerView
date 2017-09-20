@@ -1,0 +1,6 @@
+framework module DNPagerView {
+  umbrella header "DNPagerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
