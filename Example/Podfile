@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DNPagerView_Example' do
+  pod 'DNPagerView', :path => '../'
+
+  target 'DNPagerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
